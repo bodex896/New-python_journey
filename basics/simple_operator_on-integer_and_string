@@ -1,0 +1,11 @@
+#integers
+one = 1
+two = 2
+three = one + two
+print(three)
+
+#stringsf
+hello = "hello"
+world = "Bodex"
+helloworld = hello + " " + world
+print(helloworld)
