@@ -1,0 +1,7 @@
+#backslashes \ can be used to escape quotes
+
+a= 'ain\'t'
+print(a)
+
+b="\"yes\",we can escape"
+print(b)
