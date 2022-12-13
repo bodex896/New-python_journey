@@ -1,0 +1,11 @@
+#integer
+my_int=7
+print(my_int)
+
+#float
+my_float=7.0
+print(my_float)
+
+#float alt
+my_float=float (7)
+print(my_float)
