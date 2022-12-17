@@ -1,0 +1,7 @@
+print("Bo" + "dex")
+#Bodex
+print("Est" + "her")
+#Esther
+print(3* "un" + "ium")
+#unununium
+
