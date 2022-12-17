@@ -1,0 +1,14 @@
+print("""\
+HOSTNAME                 BODEX
+
+fav colour               Black
+
+best food                junks
+
+cartoon                  freak(0_0)
+
+           End of string
+    
+""")
+
+#end of line was prevented by using \
